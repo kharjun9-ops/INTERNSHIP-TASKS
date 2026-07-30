@@ -1,6 +1,7 @@
-Name,Age,Department,Salary
-Alice,25,HR,50000
-Bob,30,IT,70000
-Charlie,28,Finance,65000
-David,35,IT,85000
-Eva,22,Marketing,45000
+Name,Age,Salary,Join_Date
+Alice,25,50000,2022-01-15
+Bob,,70000,2021-03-20
+Charlie,28,65000,2023-05-10
+Alice,25,50000,2022-01-15
+David,35,85000.50,2020-11-01
+Eva,22,,2024-02-18
